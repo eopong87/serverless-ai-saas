@@ -1,6 +1,12 @@
 # Serverless AI SaaS Platform
 
-A full-stack authenticated AI SaaS platform built using AWS serverless architecture, Terraform Infrastructure as Code, Next.js, Cognito authentication, DynamoDB, and OpenAI integration.
+# Serverless AI SaaS Platform
+
+A full-stack authenticated AI SaaS platform...
+
+# Architecture Diagram
+
+![Architecture Diagram](docs/architecture-diagram.png)
 
 ---
 
