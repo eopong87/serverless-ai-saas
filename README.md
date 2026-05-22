@@ -1,7 +1,5 @@
 # Serverless AI SaaS Platform
 
-# Serverless AI SaaS Platform
-
 A full-stack authenticated AI SaaS platform...
 
 ---
