@@ -4,10 +4,6 @@
 
 A full-stack authenticated AI SaaS platform...
 
-# Architecture Diagram
-
-![Architecture Diagram](docs/architecture-diagram.png)
-
 ---
 
 # Live Features
